@@ -8,4 +8,6 @@ Realizemos el segundo cambio de este bonito archivo c:
 
 ESTO SERA EL ULTIMO, TRUE FACT :D
 
+"aqui iria una imagen"
+
 "HOLAAAAAAAA NACI EN EL SALVADOR, PERO QUIERO IRME DE ACA :D"
