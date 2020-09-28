@@ -1,0 +1,1 @@
+Hola esta sera una practica, espero, bastante sencilla sobre algunos comandos de git c:
