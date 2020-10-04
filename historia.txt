@@ -1,9 +1,0 @@
-C A B E C E R A 
-
-"AQUI IRIA UNA IMAGEN SUPER PERRONA"
-
-Hola esta sera una practica, espero, bastante sencilla sobre algunos comandos de git c:
-
-Realizemos el segundo cambio de este bonito archivo c:
-
-ESTO SERA EL ULTIMO, TRUE FACT :D
