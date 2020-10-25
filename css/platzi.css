@@ -116,16 +116,27 @@ body
     padding: 30px;
     position: relative;
 }
-::-webkit-scrollbar 
+
+::-webkit-scrollbar
 {
+    background-color: white;
     width: 10px;
-    height: 10px;
+    height: 5px;
+    border-radius: 25px;
+    padding: 30px;
 }
 .carusel__contenedor
 {
     white-space: nowrap;
     margin: 70px 0px;
     padding-bottom: 10px;
+}
+.videos__recientes
+{
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    margin-bottom: 20px; 
 }
 .carusel-item
 {
