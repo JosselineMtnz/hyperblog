@@ -94,8 +94,8 @@ body
 }
 .google:hover
 {
-    text-decoration: underline blue;
-    color: blue;
+    text-decoration: underline #4e89ae;
+    color: #4e89ae;
     font-weight: bold;
 }
 .twitter:hover
